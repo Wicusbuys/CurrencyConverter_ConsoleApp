@@ -1,0 +1,14 @@
+F:\Programming\VS Projects\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+F:\Programming\VS Projects\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+F:\Programming\VS Projects\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+F:\Programming\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+F:\Programming\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+F:\Programming\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+F:\Programming\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+F:\Programming\VS Projects\CurrencyConverter_ConsoleApp\bin\Debug\CurrencyConverter.exe.config
+F:\Programming\VS Projects\CurrencyConverter_ConsoleApp\bin\Debug\CurrencyConverter.exe
+F:\Programming\VS Projects\CurrencyConverter_ConsoleApp\bin\Debug\CurrencyConverter.pdb
+F:\Programming\VS Projects\CurrencyConverter_ConsoleApp\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+F:\Programming\VS Projects\CurrencyConverter_ConsoleApp\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+F:\Programming\VS Projects\CurrencyConverter_ConsoleApp\obj\Debug\CurrencyConverter.exe
+F:\Programming\VS Projects\CurrencyConverter_ConsoleApp\obj\Debug\CurrencyConverter.pdb
